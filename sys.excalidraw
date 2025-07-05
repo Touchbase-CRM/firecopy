@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "sPIpomutuzbjQO5Tpr9mq",
+      "type": "text",
+      "x": 1615.3644409179688,
+      "y": -1541.3020464579276,
+      "width": 757.619384765625,
+      "height": 325,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1577116467,
+      "version": 523,
+      "versionNonce": 1215090365,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1751677346257,
+      "link": null,
+      "locked": false,
+      "text": "Functional Requirements\n- Users should be able to create new copies\n- Users should be able to collab with 100 other users.\n- Users should be able to see the changes of the others\n- Users should be able to cursor locations and the user names of the others.\n\nNon-functional requirements\n- The system is scalable to 100M concurrent users.\n- The system can hold upto 1B copies.\n- Copies are eventually consistent\n- Updates are low latency < 100 mS\n- Fault tolerant copies\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Functional Requirements\n- Users should be able to create new copies\n- Users should be able to collab with 100 other users.\n- Users should be able to see the changes of the others\n- Users should be able to cursor locations and the user names of the others.\n\nNon-functional requirements\n- The system is scalable to 100M concurrent users.\n- The system can hold upto 1B copies.\n- Copies are eventually consistent\n- Updates are low latency < 100 mS\n- Fault tolerant copies\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
